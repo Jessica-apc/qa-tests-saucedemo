@@ -13,6 +13,7 @@ Este repositório documenta meus estudos práticos em QA usando o site [SauceDem
 | BUG-001 | Filtro A a Z invertido | Média |
 | BUG-002 | Imagens dos produtos repetidas | Máxima |
 | BUG-003 | Filtro não funciona | Máxima |
+| BUG-004 | Tela branca e trava no checkout | Máxima |
 
 ## Casos de teste criados
 | ID | Título | Status |
