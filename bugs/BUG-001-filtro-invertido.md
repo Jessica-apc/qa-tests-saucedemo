@@ -36,3 +36,11 @@ Os produtos aparecem em ordem alfabética decrescente (Z → A)
 ## Observações
 
 O bug ocorre consistentemente todas as vezes que o filtro é aplicado.
+
+## Observação importante
+
+Este bug foi encontrado no usuário `standard_user`, que é considerado a conta de 
+comportamento normal do sistema.
+
+Isso indica que é um bug real, não apenas um problema programado para perfis 
+específicos como `problem_user`.
